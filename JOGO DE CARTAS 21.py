@@ -1,3 +1,5 @@
+# ABERTO PARA COLABORAÇÃO
+
 from random import randint
 from time import sleep
 j = cont = c = somajogador = somacomputador = rodada = 0
